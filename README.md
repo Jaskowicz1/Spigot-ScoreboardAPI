@@ -10,4 +10,4 @@ Change some things where needed like "MAINCLASSHERE", "NameOfPluginHere", "Score
 ## Credit
 
 You can choose to credit me if you wish, i'm really not that bothered. At the end of the day, it's a Scoreboard API.
-It would be nice to see people credit, of course, however if (for some reason) you hate crediting people then do as you wish.
+It would be nice to see people credit me, of course. However, if for some reason you hate crediting people, then do as you wish.
